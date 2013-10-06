@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n beamwarsbot
+web: bin/hubot -a irc -n bot
